@@ -1,0 +1,5 @@
+@-ms-viewport { width: device-width; }
+
+@media only screen and (max-width: 400px) {
+@-ms-viewport { width: 320px; }
+}
